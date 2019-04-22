@@ -1,0 +1,5 @@
+l=[]
+for i in range (9,-1,-1):
+  l.appendfloat(input("digite um número")))
+print(l)
+
